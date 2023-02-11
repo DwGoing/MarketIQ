@@ -1,0 +1,30 @@
+*.suo 
+  
+[Bb]in/ 
+[Oo]bj/ 
+
+# Windows-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Mac-specific
+.DS_Store
+
+# Visual Studio Logs
+*.log
+
+# Visual Studio Profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+[Bb]uild/
+x64/
+x86/
+builds/ 
+Build/
